@@ -2,6 +2,8 @@
 
 **Walesk** is an original, large-scale constructed language and civilizational design project conceived and developed by **Shahjalal Ahmed Nishat** of the **Department of English Language and Literature, Jatiya Kabi Kazi Nazrul Islam University**.
 
+Copyright © 2026 Shahjalal Ahmed Nishat. All rights reserved.
+
 Originally undertaken within the context of an **NDA-governed research and development initiative**, the project constitutes an extensive exercise in speculative linguistics, sociocultural systems design, institutional modeling, and macro-civilizational worldbuilding. It explores the theoretical intersections between language formation, cultural continuity, epistemological structures, governance systems, technological development, and long-term civilizational sustainability.
 
 At its core, Walesk functions not merely as a constructed language but as a comprehensive conceptual framework for examining how linguistic architecture interacts with political organization, educational institutions, legal traditions, scientific advancement, and collective identity formation. The project approaches language as a foundational civilizational technology through which knowledge, values, institutions, and historical consciousness are transmitted across generations.
