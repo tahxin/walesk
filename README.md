@@ -30,8 +30,8 @@ This repository serves as the principal archival and reference corpus for the Wa
 
 ## Author
 
-**Shahjalal Ahmed Nishat**
-Department of English Language and Literature
+**Shahjalal Ahmed Nishat** \
+Department of English Language and Literature \
 Jatiya Kabi Kazi Nazrul Islam University
 
 ---
@@ -54,17 +54,14 @@ Walesk, its linguistic framework, nomenclature, cultural constructs, institution
 
 ## Official National Reference
 
-Version: 1.0 Canon
-Language: Walesk
-Country: Walesk
-People: Vales
+Version: 1.0 Canon \
+Language: Walesk \
+Country: Walesk \
+People: Vales \
 Citizen: Valen
 
 ---
 
-
-
-README.md
 
 01. Introduction
 02. Canon Summary
